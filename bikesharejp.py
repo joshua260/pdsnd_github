@@ -182,6 +182,7 @@ def user_stats(df):
     print(user_types)
 
     # TO DO: Display counts of gender
+    """Refactoring change 3: added gender exception for washington dbase"""
     columns_list = df.columns
     if 'Gender' not in (columns_list):
         print("Gender counts not surveyed.")
