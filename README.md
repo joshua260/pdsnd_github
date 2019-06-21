@@ -1,15 +1,18 @@
-### Date created
-Include the date you created this project and README file.
+### Date created 
+Project and README file created Jun 21, 2019.
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+Enables user to query bikeshare data and statistics related to Chicago, Washington and New York cities. 
 
 ### Files used
-Include the files used
+bikesharejp.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Data and Python programming training provided by https://www.udacity.com/
 
