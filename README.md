@@ -15,4 +15,6 @@ new_york_city.csv
 
 ### Credits
 Data and Python programming training provided by https://www.udacity.com/
+Pandas info from https://pandas.pydata.org/
+Pandas tutorials from https://www.tutorialspoint.com/python/python_pandas.htm
 
