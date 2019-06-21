@@ -22,7 +22,7 @@ def get_filters():
     while city not in ['chicago', 'new_york_city', 'washington']:
         print("That's not a valid selection.  Check spelling and include underscores where shown.")
         city = input("Type in either 'chicago', 'new_york_city', or 'washington'. >> ").lower()
-    
+    """(Refactoring change 1: improved parameter input method"""
     # TO DO: get user input for month (all, january, february, ... , june)
     month = input("Select month. \n Type in a month from January to June, or enter 'all'. >> ").lower()
     
